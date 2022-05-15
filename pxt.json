@@ -1,0 +1,29 @@
+{
+    "name": "Kalan TOWN 3D",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.14.3",
+        "tag": "v0.14.3",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/aef27bb278de89a83ecb6ab02af5319c06d617e2",
+        "target": "1.8.22",
+        "pxt": "5.21.6",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
